@@ -4,7 +4,7 @@
   height: 100vh;
  background-color: rgb(64, 26, 114);
  font-family: "Open Sans", sans-serif;
- background-image: url('./Images/home.jpg');
+ background-image: url('./Images/home.webp');
 background-size: cover;
 background-repeat: no-repeat;
  z-index: 3;
@@ -13,9 +13,6 @@ background-repeat: no-repeat;
 
 body{
 height: 100%;
-background-image: url('./Images/home.webp');
-background-size: contain;
-background-repeat: no-repeat;
 width: 100%;
 overflow-y: hidden;
 
